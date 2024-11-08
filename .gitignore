@@ -1,0 +1,47 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build directories and outputs
+bin/
+obj/
+out/
+
+# Ignore packages
+packages/
+*.nupkg
+*.snupkg
+
+# Ignore publish output
+publish/
+app.publish/
+
+# Ignore user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+
+# Ignore local environment files
+.env
+
+# Ignore Rider IDE files
+.idea/
+*.sln.iml
